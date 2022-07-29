@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estefanía</h1>
 <h3 align="center">Frontend developer from Valparaíso, Chile</h3>
 
-- 🔭 I’m currently working on [Laboratoria](https://www.laboratoria.la/).
-
 - 💬 Ask me about **javascript, react, node**.
 
 - 📫 How to reach me **estefania.osses.v@gmail.com**.
